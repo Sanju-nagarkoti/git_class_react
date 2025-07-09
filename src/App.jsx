@@ -6,7 +6,9 @@ function App() {
 
   return (
     <>
-     <h1>App filr cleaned</h1>
+     <h1>App file cleaned. updated
+     </h1>
+     <h2>React class</h2>
     </>
   )
 }
